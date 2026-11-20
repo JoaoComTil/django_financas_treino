@@ -1,0 +1,15 @@
+# Python / venv
+.venv/
+__pycache__/
+*.pyc
+db.sqlite3
+
+# Workspace de estudo (/teach), fora dos commits do projeto
+MISSION.md
+NOTES.md
+RESOURCES.md
+GLOSSARY.md
+lessons/
+reference/
+assets/
+learning-records/
